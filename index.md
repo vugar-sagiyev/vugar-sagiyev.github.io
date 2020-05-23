@@ -1,7 +1,6 @@
 <html>
 <body>
-  <b>
-  this is body </b>
+  <b> this is body </b>
   </body>
 
 </html>
