@@ -1,7 +1,7 @@
 <html>
 <title>
 	SAGIYEV.COM
-<title>
+</title>
 <body>
   <b> this is body </b>
   </body>
