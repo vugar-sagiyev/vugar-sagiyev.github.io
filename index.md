@@ -1,7 +1,2 @@
-<html>
+  this is body
 
-<body>
-  <b> this is body </b>
-  </body>
-
-</html>
