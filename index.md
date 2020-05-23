@@ -1,1 +1,7 @@
-content of index.md
+<html>
+<body>
+  <b>
+  this is body </b>
+  </body>
+
+</html>
